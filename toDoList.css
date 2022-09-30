@@ -1,0 +1,22 @@
+.header{
+   padding-top: 60px;
+   padding-left: 40px;
+   padding-bottom: 20px;
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-style: bold;
+font-size: 30px;
+}
+
+.toDoContainer{
+padding-left: 10px;
+
+}
+.input-group{
+    padding-left: 10px;
+}
+
+.howto{
+    padding-top: 20px;
+font-size: 14px;
+
+}
